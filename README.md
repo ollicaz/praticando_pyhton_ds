@@ -1,6 +1,9 @@
 # Título
 ## Subtítulo
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 <img width="300" height="300" alt="python_logo" src="https://github.com/user-attachments/assets/bc83b2f6-adff-456f-aca2-7336c407d034" />
 
 # Descrição
